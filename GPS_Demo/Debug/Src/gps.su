@@ -1,0 +1,3 @@
+gps.c:18:8:gps_open	24	static
+gps.c:29:6:gps_set_input_buffer	24	static
+gps.c:42:13:gps_parse_nmea	104	static
